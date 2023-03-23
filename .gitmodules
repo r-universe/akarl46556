@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GPvam"]
+	path = GPvam
+	url = https://github.com/cran/GPvam
+	shallow = true
+	registered = true
+[submodule "mvglmmRank"]
+	path = mvglmmRank
+	url = https://github.com/cran/mvglmmRank
+	shallow = true
+	registered = true
+[submodule "RealVAMS"]
+	path = RealVAMS
+	url = https://github.com/cran/RealVAMS
+	shallow = true
+	registered = true
