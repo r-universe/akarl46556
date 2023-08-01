@@ -5,9 +5,9 @@
 [submodule "GPvam"]
 	path = GPvam
 	url = https://github.com/cran/GPvam
-[submodule "mvglmmRank"]
-	path = mvglmmRank
-	url = https://github.com/cran/mvglmmRank
 [submodule "RealVAMS"]
 	path = RealVAMS
 	url = https://github.com/cran/RealVAMS
+[submodule "mvglmmRank"]
+	path = mvglmmRank
+	url = https://github.com/cran/mvglmmRank
