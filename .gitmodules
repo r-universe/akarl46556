@@ -8,6 +8,9 @@
 [submodule "RealVAMS"]
 	path = RealVAMS
 	url = https://github.com/cran/RealVAMS
+[submodule "SVEMnet"]
+	path = SVEMnet
+	url = https://github.com/cran/SVEMnet
 [submodule "mvglmmRank"]
 	path = mvglmmRank
 	url = https://github.com/cran/mvglmmRank
