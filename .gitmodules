@@ -11,6 +11,9 @@
 [submodule "SVEMnet"]
 	path = SVEMnet
 	url = https://github.com/cran/SVEMnet
+[submodule "mixedbiastest"]
+	path = mixedbiastest
+	url = https://github.com/cran/mixedbiastest
 [submodule "mvglmmRank"]
 	path = mvglmmRank
 	url = https://github.com/cran/mvglmmRank
